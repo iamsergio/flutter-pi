@@ -13,7 +13,8 @@
                 "ENABLE_OPENGL": true,
                 "BUILD_GSTREAMER_AUDIO_PLAYER_PLUGIN": true,
                 "BUILD_SENTRY_PLUGIN": true,
-                "ENABLE_TESTS": true
+                "ENABLE_TESTS": true,
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
             }
         },
         {
